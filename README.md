@@ -1,7 +1,9 @@
 # eComp
+
 eComp is a Discord bot to facilitate organizing your own Esports league. Users can register their teams, build rosters, and then set up matchmaking for scrims and tourneys.  
 
 # Features
+
 • User registration and authentication
 • Team registration and management
 • Player roster management
@@ -9,12 +11,14 @@ eComp is a Discord bot to facilitate organizing your own Esports league. Users c
 • Automated scorekeeping and match reporting
 
 # Installation
+
 • Clone the repository to your local machine
 • Install dependencies with npm install
 • Create a .env file with your Discord bot token (see .env.example for an example)
 • Run the bot with npm start
 
 # Usage
+
 eComp can be used in any Discord server where it has been added as a member. To use the bot, users can interact with it using specific commands, such as:
 
 &&start 
