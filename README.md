@@ -18,9 +18,9 @@ eComp is a Discord bot to facilitate organizing your own Esports league. Users c
 eComp can be used in any Discord server where it has been added as a member. To use the bot, users can interact with it using specific commands, such as:
 
 &&start -
-  - initial command thats needs to be executed 
-  - creates an "eComp Manager role", which gives the ability to run sensitive commands
-  - if the role is deleted, the command needs to be executed again
+        - initial command thats needs to be executed 
+        - creates an "eComp Manager role", which gives the ability to run sensitive commands
+        - if the role is deleted, the command needs to be executed again
  
 &&registerteam - (only users assigned with the "eComp Manager" role can run this)
                - prompts a message asking for the team name
